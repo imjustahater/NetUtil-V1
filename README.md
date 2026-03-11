@@ -23,6 +23,6 @@ The main focus of this project was building a custom, highly strict IPv4 validat
 ## What I Learned
 Building this helped me figure out how to manage input buffers (`cin >> ws`), safely parse mixed data types using `stringstream`, and handle control flow in a continuous menu loop.
 
-#Preview Image:
+##Preview Image:
 
 <img width="803" height="519" alt="image" src="https://github.com/user-attachments/assets/514ddb68-cbee-49fc-8ea2-811d0254047b" />
